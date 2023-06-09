@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**saraj-moura/saraj-moura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Olá 👋! Eu sou a Sara.</h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 &nbsp; Atualmente desenvolvendo integrações bancárias, integrações de NFSE.
+- 🤔 &nbsp; Explorando novas tecnologias.
+- 🎓 &nbsp; Academica de Engenharia da Computação.
+- 💼 &nbsp; Desenvolvedora C#, VBNet, Delphi.
+- 🌱 &nbsp; Entusiasta em Segurança Cibernética.
+- ☕ &nbsp; Acredita-se que uma xícara de café perfeita pode ser a solução definitiva para qualquer estresse. 
+
+<h3>🛠 Pilha de Tecnologia</h3>
+
+- 💻 &nbsp; C++ | VB.Net | Delphi |  
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; SQL Server | Firebase | PostgreSQL
+- 🔧 &nbsp; Visual Studio | Visual Studio code | SVN | Git
+
+
+<h3> 🤝🏻 Conecte-se comigo </h3>
+
+<p align="center">
+
+&nbsp; <a href="https://www.instagram.com/Saraj_moura/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="www.linkedin.com/in/sara-jesus-moura-78b898160/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:sarajmoura11@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+⭐️ From [Sara](https://github.com/saraj-moura)
+</html>
