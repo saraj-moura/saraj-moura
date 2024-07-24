@@ -4,18 +4,18 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🔭 &nbsp; Atualmente desenvolvendo integrações bancárias, integrações de NFSE.
+- 🔭 &nbsp; Atualmente desenvolvendo integrações com microcontroladores.
 - 🤔 &nbsp; Explorando novas tecnologias.
-- 🎓 &nbsp; Academica de Engenharia da Computação.
-- 💼 &nbsp; Desenvolvedora C#, VBNet, Delphi.
+- 🎓 &nbsp; Formada em Engenharia da Computação.
+- 💼 &nbsp; Desenvolvedora Microcontroladores, ROMS Android, C#, VBNet, Delphi.
 - 🌱 &nbsp; Entusiasta em Segurança Cibernética.
 - ☕ &nbsp; Acredita-se que uma xícara de café perfeita pode ser a solução definitiva para qualquer estresse. 
 
 <h3>🛠 Pilha de Tecnologia</h3>
 
-- 💻 &nbsp; C++ | VB.Net | Delphi |  
+- 💻 &nbsp; C++ | VB.Net | Delphi | C# | Android
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; SQL Server | Firebase | PostgreSQL
+- 🛢 &nbsp; SQL Server | Firebase | PostgreSQL | SQLite
 - 🔧 &nbsp; Visual Studio | Visual Studio code | SVN | Git
 
 
